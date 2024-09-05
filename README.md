@@ -5,7 +5,8 @@ EN.553.689 course project
 Compositional Image Retrieval with long text description. 
 
 ## Description
-Composed Image Retrieval (CIR) is the problem of finding the correct target image given a sample image with a text query that describes a certain change to it.  For ex: Given an image of a dog and the query "playing with a red ball", the model shoudl retrieve the correct image where a dog is playing with a red ball. 
+Composed Image Retrieval (CIR) is the problem of finding the correct target image given a sample image with a text query that describes a certain change to it.  For ex: Given an image of a dog and the query "playing with a red ball", the model should retrieve the correct image where a dog is playing with a red ball. 
+
 In this project we try to address CIR, where the text query is not a short text, but a longer description. 
 
 ## Datasets and Compute
