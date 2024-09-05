@@ -1,7 +1,7 @@
 # longcompose
 EN.553.689 course project
 
-Creating conflict
+Pleasseee??
 
 # Problem Setting
 Compositional Image Retrieval with long text description. 
