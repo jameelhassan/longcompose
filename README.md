@@ -13,3 +13,6 @@ In this project we try to address CIR, where the text query is not a short text,
 Exisiting datasets for CIR are CIRCO, CIRR and GeneCIS. These can be refined for longCompose. 
 
 Exisiting CIR models can be used with a single GPU with 40GB memory. There are exisiting methods that train the model using a single GPU as well. 
+
+
+## CHANGING TO TEST
