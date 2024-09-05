@@ -1,7 +1,7 @@
 # longcompose
 EN.553.689 course project
 
-Creating conflict remote here....
+Creating conflict duuhhhh
 
 # Problem Setting
 Compositional Image Retrieval with long text description. 
