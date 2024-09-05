@@ -1,8 +1,6 @@
 # longcompose
 EN.553.689 course project
 
-Pleasseee??
-
 # Problem Setting
 Compositional Image Retrieval with long text description. 
 
