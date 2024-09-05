@@ -1,5 +1,6 @@
 # longcompose
 EN.553.689 course project
+Test 2 local
 
 # Problem Setting
 Compositional Image Retrieval with long text description. 
